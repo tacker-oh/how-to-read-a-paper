@@ -27,3 +27,6 @@
 * 概要 -> 結論 -> 実験など自分にあったものを見つければよいです
 * [参考](https://qiita.com/tk_01/items/2eec9ad01c7db74559f8)
 * [↑の原文も見ると良い](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+
+### アウトプットに関して
+* [１００冊読む時間があったら論文を１００本「解剖」した方が良い](https://readingmonkey.blog.fc2.com/blog-entry-236.html)
