@@ -25,4 +25,4 @@
 
 ### 論文の読み進め方
 * 概要 -> 結論 -> 実験など自分にあったものを見つければよいです
-* [参考](https://www.slideshare.net/Ochyai/1-ftma15)(p45〜)
+* [参考](https://qiita.com/tk_01/items/2eec9ad01c7db74559f8)
